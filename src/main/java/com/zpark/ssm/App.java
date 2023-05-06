@@ -7,6 +7,6 @@ public class App {
         System.out.println("Hello Git hotfix");
         System.out.println("Hello Git hotfix");
         System.out.println("Hello Git master");
-        System.out.println("Hello Git master11");
+        System.out.println("Hello Git master1");
     }
 }
